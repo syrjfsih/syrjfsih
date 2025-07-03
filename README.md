@@ -49,8 +49,6 @@ Selain ngoding, saya juga aktif di dunia nyata: **futsal**, **main game**, dan k
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=syrjfsih&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&hide_border=true" alt="Syiraj's GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syrjfsih&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syrjfsih&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
 
