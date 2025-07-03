@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, saya Syiraj!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=#0090ff&center=true&vCenter=true&width=600&lines=Halo+Saya+Syiraj!;Fullstack+Web+Developer;Laravel+%7C+React+%7C+Supabase+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0090FF&center=true&vCenter=true&width=600&lines=Halo+Saya+Syiraj!;Fullstack+Web+Developer;Laravel+%7C+React+%7C+Supabase+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center"><em>"Code adalah puisi dalam bentuk logika."</em><br>— Syiraj, pelajar yang sedang merakit masa depan pakai <code>console.log()</code> dan <code>commit -m "grow"</code></p>
@@ -44,6 +44,18 @@ Selain ngoding, saya juga aktif di dunia nyata: **futsal**, **main game**, dan k
 
 ---
 
+## 📊 GitHub Statistik
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=syrjfsih&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&hide_border=true" alt="Syiraj's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syrjfsih&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syrjfsih&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</p>
+
+---
+
 ## 💡 Visi Hidup
 
 > _"Menjadi pribadi yang menyenangkan dan membahagiakan banyak orang — baik lewat teknologi, maupun hal kecil yang berarti."_
@@ -59,6 +71,8 @@ Selain ngoding, saya juga aktif di dunia nyata: **futsal**, **main game**, dan k
 ---
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0090FF&height=120&section=footer"/>
+  <br>
   <em>Terima kasih sudah mampir!</em><br>
   Jika suka dengan karya atau gaya saya, klik ⭐ di repositori ini atau traktir saya kopi virtual ☕
 </p>
