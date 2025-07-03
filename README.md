@@ -1,26 +1,26 @@
 <h1 align="center">👋 Hi, saya Syiraj!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8F00FF&center=true&vCenter=true&width=600&lines=Halo+Saya+Syiraj!;Frontend+%26+Backend+Web+Developer;Laravel+%7C+React+%7C+Supabase+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8F00FF&center=true&vCenter=true&width=600&lines=Halo+Saya+Syiraj!;Fullstack+Web+Developer;Laravel+%7C+React+%7C+Supabase+Enthusiast" alt="Typing SVG" />
 </p>
 
-<p align="center"><em>“Code adalah puisi dalam bentuk logika.”</em><br>— Syiraj, Pelajar yang sedang merakit masa depan pakai <code>console.log()</code> dan <code>commit -m "grow"</code></p>
+<p align="center"><em>"Code adalah puisi dalam bentuk logika."</em><br>— Syiraj, pelajar yang sedang merakit masa depan pakai <code>console.log()</code> dan <code>commit -m "grow"</code></p>
 
 ---
 
 ## 🧠 Tentang Saya
 
-Saya adalah seorang **Pelajar Rekayasa Perangkat Lunak (RPL) di SMKN 2 Subang**, yang semangat belajar dan percaya bahwa setiap error adalah pelajaran — bukan kutukan.
+Halo! Saya Syiraj, pelajar dari **SMKN 2 Subang, jurusan Rekayasa Perangkat Lunak (RPL)**. Saya memiliki ketertarikan besar dalam pengembangan aplikasi web — mulai dari desain, logika backend, hingga database dan implementasi UI modern.
 
-Di luar dunia coding, saya senang **futsal**, **main game**, dan sesekali mencoba olahraga lain (walau tetap kalah sama error Laravel 😅).
+Saya percaya bahwa **setiap error membawa pelajaran**, dan semangat saya adalah tumbuh melalui proses belajar yang konsisten dan real-project oriented.
 
-Saat ini saya sedang mengembangkan berbagai **aplikasi web modern**, dari **digital library** sampai sistem pemesanan makanan (**TwoNCafe**) — semua dengan pendekatan fullstack menggunakan **Laravel**, **React**, dan **Supabase**.
+Selain ngoding, saya juga aktif di dunia nyata: **futsal**, **main game**, dan kadang olahraga lain yang bikin ngos-ngosan tapi bahagia 😄.
 
 ---
 
 ## 🛠️ Teknologi & Tools
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Laravel-FB503B?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
@@ -34,31 +34,31 @@ Saat ini saya sedang mengembangkan berbagai **aplikasi web modern**, dari **digi
 
 ---
 
-## 📚 Proyek Terbaru
+## 📚 Proyek Terkini
 
-- ✨ **TwoNCafe**  
-  Aplikasi pemesanan makanan yang simple tanpa login pelanggan, dengan dashboard admin yang smooth & interaktif.
+- **🍽️ TwoNCafe**  
+  Sistem pemesanan makanan berbasis web — tanpa login untuk pelanggan, dengan dashboard admin interaktif dan real-time order management.
 
-- 📖 **Digital Library**  
-  Sistem perpustakaan digital dengan dua role (peminjam & staff). Aman, modern, dan siap dipakai di lingkungan sekolah atau instansi.
+- **📖 Digital Library**  
+  Aplikasi perpustakaan modern dengan dua role (peminjam & staff). Lengkap dengan fitur manajemen buku, riwayat peminjaman, dan dashboard laporan.
 
 ---
 
 ## 💡 Visi Hidup
 
-> _"Menjadi pribadi yang menyenangkan dan membahagiakan banyak orang. ;"_
+> _"Menjadi pribadi yang menyenangkan dan membahagiakan banyak orang — baik lewat teknologi, maupun hal kecil yang berarti."_
 
 ---
 
-## 📬 Hubungi Saya
+## 📬 Kontak Saya
 
-- 📧 Email: **rajzchanel@gmail.com**
-- 📱 Instagram: [@syrjfsih_](https://instagram.com/syrjfsih_)
-- 💻 GitHub: [@syrjfsih](https://github.com/syrjfsih)
+- 📧 **Email:** [rajzchanel@gmail.com](mailto:rajzchanel@gmail.com)  
+- 📱 **Instagram:** [@syrjfsih_](https://instagram.com/syrjfsih_)  
+- 💻 **GitHub:** [@syrjfsih](https://github.com/syrjfsih)
 
 ---
 
 <p align="center">
   <em>Terima kasih sudah mampir!</em><br>
-  Jika suka dengan karya atau gaya saya, klik ⭐ di repositori ini atau kirim saya secangkir kopi virtual ☕.
+  Jika suka dengan karya atau gaya saya, klik ⭐ di repositori ini atau traktir saya kopi virtual ☕
 </p>
