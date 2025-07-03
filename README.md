@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, saya Syiraj!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8F00FF&center=true&vCenter=true&width=600&lines=Halo+Saya+Syiraj!;Fullstack+Web+Developer;Laravel+%7C+React+%7C+Supabase+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=#0090ff&center=true&vCenter=true&width=600&lines=Halo+Saya+Syiraj!;Fullstack+Web+Developer;Laravel+%7C+React+%7C+Supabase+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center"><em>"Code adalah puisi dalam bentuk logika."</em><br>— Syiraj, pelajar yang sedang merakit masa depan pakai <code>console.log()</code> dan <code>commit -m "grow"</code></p>
